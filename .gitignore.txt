@@ -1,0 +1,9 @@
+#Ignores OS files
+.DS_store
+Thumbs.db
+
+#Ignore environment files
+.env
+
+#Ignore XAMPP configs
+xampp/
